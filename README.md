@@ -5,7 +5,7 @@ Simple script made in Tkinter with syntax highlighting.
 
 `cd SyntaxHighlighting-Main`<br>
 
-`python3 main.py`
+`python3 index.py`
 # License
 This project is not licensed under any license.
 # Credits
